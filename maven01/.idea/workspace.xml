@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03cad169-9204-4986-a2cd-65d907b9e5b1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/add_branch_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,11 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
-              <caret line="216" column="32" selection-start-line="216" selection-start-column="32" selection-end-line="216" selection-end-column="32" />
+            <state relative-caret-position="754">
+              <caret line="256" column="12" lean-forward="true" selection-start-line="256" selection-start-column="12" selection-end-line="256" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_branch_1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/add_branch_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -146,6 +156,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -158,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/test/java/CalculateTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/t1.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/add_branch_1.java" />
       </list>
     </option>
   </component>
@@ -209,6 +225,30 @@
             <path>
               <item name="maven01" type="b2602c69:ProjectViewProjectNode" />
               <item name="maven01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -422,7 +462,7 @@
       <workItem from="1531745547780" duration="3443000" />
       <workItem from="1531998946922" duration="2533000" />
       <workItem from="1532006284055" duration="2843000" />
-      <workItem from="1532052701543" duration="6076000" />
+      <workItem from="1532052701543" duration="6891000" />
     </task>
     <task id="LOCAL-00001" summary="add t1.class">
       <created>1532047983123</created>
@@ -445,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532053626915</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="modified workspace.xml">
+      <created>1532066595966</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1532066595966</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -481,7 +528,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31920000" />
+    <option name="totallyTimeSpent" value="32735000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -494,21 +541,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="633" y="0" width="653" height="687" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4907563" weight="0.32806325" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" x="803" y="260" width="313" height="166" id="Event Log" order="7" sideWeight="0.32605043" side_tool="true" visible="true" weight="0.38142294" />
+      <window_info anchor="bottom" x="803" y="260" width="313" height="166" id="Event Log" order="7" sideWeight="0.3277311" side_tool="true" visible="true" weight="0.38142294" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.6739496" visible="true" weight="0.38142294" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.6722689" weight="0.38142294" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50756305" weight="0.37163374" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.47058824" weight="0.32806325" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4672269" weight="0.32806325" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" x="512" y="161" width="257" height="358" id="Project" order="0" sideWeight="0.4970588" visible="true" weight="0.4252101" />
+      <window_info active="true" content_ui="combo" x="512" y="161" width="257" height="358" id="Project" order="0" sideWeight="0.4970588" visible="true" weight="0.4252101" />
       <window_info anchor="right" id="Database" order="3" weight="0.32941177" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" sideWeight="0.5029412" side_tool="true" weight="0.4252101" />
@@ -560,7 +608,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add t1.class" />
     <MESSAGE value="add t1.class by linkang" />
-    <option name="LAST_COMMIT_MESSAGE" value="add t1.class by linkang" />
+    <MESSAGE value="modified workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified workspace.xml" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -954,8 +1003,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="216" column="32" selection-start-line="216" selection-start-column="32" selection-end-line="216" selection-end-column="32" />
+        <state relative-caret-position="754">
+          <caret line="256" column="12" lean-forward="true" selection-start-line="256" selection-start-column="12" selection-end-line="256" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/add_branch_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
